@@ -1,7 +1,5 @@
 # TraceAR Privacy Policy
 
-**Draft — pending final review and publication.**
-
 Last updated: 27 September 2026
 
 ## Who is responsible
