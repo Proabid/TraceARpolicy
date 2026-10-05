@@ -4,7 +4,7 @@ Last updated: 27 September 2026
 
 ## Who is responsible
 
-TraceAR is a mixed-reality image tracing application for Meta Quest, published under the developer name Toti Studio. The person or legal entity responsible for its data processing is **Abdulbari Abdlbari, Sweden**. For privacy questions or deletion requests, contact **tracearcontact@gmail.com**.
+TraceAR is a mixed-reality image tracing application for Meta Quest, published under the developer name Toti Studio. The person or legal entity responsible for its data processing is **Abdulbari Abdlbari, Sweden**. For privacy questions or deletion requests, contact **ettavett@gmail.com**.
 
 ## Data the app processes
 
@@ -30,7 +30,7 @@ Imported copies, recent-image references and preferences remain in local app sto
 
 To remove TraceAR's local imported copies and preferences, clear its app data using the device's app-management tools where available, or uninstall the app. Original image files outside TraceAR's app storage are not removed by uninstalling TraceAR; delete those separately through your device's file manager if desired. Check your Meta cloud-backup settings if you also want to remove or prevent restoration of a device backup.
 
-**All users may request deletion of any personal information held by Toti Studio by emailing tracearcontact@gmail.com with the subject “TraceAR data deletion”.** We will explain what information, if any, we hold and handle your request in accordance with applicable law. We cannot remotely erase local headset files or delete Meta's own account and purchase records. For those records, use Meta's privacy controls or contact Meta directly. Removing local app data does not cancel or refund a Meta purchase.
+**All users may request deletion of any personal information held by Toti Studio by emailing ettavett@gmail.com with the subject “TraceAR data deletion”.** We will explain what information, if any, we hold and handle your request in accordance with applicable law. We cannot remotely erase local headset files or delete Meta's own account and purchase records. For those records, use Meta's privacy controls or contact Meta directly. Removing local app data does not cancel or refund a Meta purchase.
 
 If you contact us, we retain correspondence only as needed to resolve your request and meet applicable legal obligations. You may request its deletion through the same contact address.
 
